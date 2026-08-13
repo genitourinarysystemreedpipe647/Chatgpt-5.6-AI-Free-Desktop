@@ -1,0 +1,16 @@
+# ChatGPT 5.6 - Personas Guide
+
+## Sol (Ctrl+Shift+S)
+Creative mode. Temperature 0.85. Best for fiction, brainstorming, art prompts, marketing copy.
+
+## Luna (Ctrl+Shift+L)
+Analytical mode. Temperature 0.3. Best for code, math, research, debugging.
+
+## Terra (Ctrl+Shift+T)
+Practical mode. Temperature 0.5. Best for quick answers, summaries, instructions.
+
+## Cyber (Ctrl+Shift+C)
+Security mode. Temperature 0.2. Best for code audits, threat modeling, security documentation.
+
+## Switching
+Personas can be changed mid-conversation. Previous history is preserved; the new persona applies to subsequent messages.

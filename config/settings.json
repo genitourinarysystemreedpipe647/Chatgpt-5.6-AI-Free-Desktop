@@ -1,0 +1,13 @@
+{
+  "app": { "name": "ChatGPT 5.6 Sol Luna Terra", "version": "5.6.3" },
+  "api": {
+    "endpoint": "https://api.openai.com/v1/chat/completions",
+    "model": "gpt-5.6",
+    "streaming": true,
+    "contextWindow": 200000
+  },
+  "persona": { "default": "sol", "cycleHotkey": "Ctrl+Tab" },
+  "voice": { "sttModel": "whisper-1", "ttsVoice": "alloy", "enabled": true },
+  "codeInterpreter": { "pythonPath": "python", "timeoutMs": 30000 },
+  "imageGen": { "model": "dall-e-3", "size": "1024x1024" }
+}

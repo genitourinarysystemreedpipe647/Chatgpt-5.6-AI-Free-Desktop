@@ -1,0 +1,19 @@
+# ChatGPT 5.6 - FAQ
+
+## Is the app free?
+Yes, the client is free and open source. You need an OpenAI API key with available credit.
+
+## What are persona modes?
+Behavior profiles that tune tone and reasoning style. Sol for creative, Luna for analytical, Terra for practical, Cyber for security work.
+
+## Does voice chat work offline?
+No. Whisper transcription and TTS both require an internet connection.
+
+## How does the code interpreter work?
+Python runs in a local sandbox folder. matplotlib, pandas, numpy supported. 30-second default timeout.
+
+## Branching?
+Ctrl+B on any message forks the conversation, preserving the original thread.
+
+## Privacy?
+All history is stored locally. Only messages you send go to the API.
